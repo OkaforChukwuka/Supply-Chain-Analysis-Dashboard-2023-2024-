@@ -3,6 +3,9 @@ A collection of real-world data analytics dashboards focused on supply chain opt
 This repository highlights my ability to clean data, build models, and create interactive Power BI dashboards.
 
 ---
+**Dashboard Preview:**  
+![Supply Chain Analysis Dashboard](https://raw.githubusercontent.com/OkaforChukwuka/Supply-Chain-Analysis-Dashboard-2023-2024-/refs/heads/main/delay%20delivery%20dashboard.png)
+
 
 ## 🧩 Projects Overview
 
@@ -18,6 +21,3 @@ A full Power BI dashboard analyzing delivery delays, traffic impact, vehicle per
 
 **Tools Used:**  
 Power BI • Excel • DAX Calculations  
-
-**Dashboard Preview:**  
-![Supply Chain Dashboard](delay delivery dashboard.png)
